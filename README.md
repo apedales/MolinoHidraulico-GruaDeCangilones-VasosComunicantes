@@ -1,0 +1,1 @@
+Algunas represas electrogeneradoras hidráulicas funcionan a lo largo del año con altibajos respecto a la potencia que pueden entregar. Esa variación proviene a su vez de la variación del caudal que reciben a lo largo del año.
